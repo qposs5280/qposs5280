@@ -6,7 +6,7 @@
  {
     text-align: center;
     color: var(--favcolor);
-    background-color: rbg(0,0,100)
+    background-color: rbg(0,0,100);
     font-size: 38pt;
  }
  section
@@ -22,6 +22,7 @@
    #mainpic
    {
       border-radius: 75%;
+      text-align: center;
    }
    div.button
    {
