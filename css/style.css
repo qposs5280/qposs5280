@@ -1,2 +1,10 @@
 <style>
-  
+  h1 {
+    font-style: bold;
+    font-size: 110%;
+    }
+  p {
+    font-family: "Verdana", sans-serif;
+    font-variant: small-caps;
+    }
+ </style>
