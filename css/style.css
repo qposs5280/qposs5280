@@ -12,7 +12,6 @@
  section
  {
     color: var(--favcolor);
-    text-align: center;
     font-size: 14pt;
   }
   p
@@ -23,7 +22,7 @@
    #mainpic
    {
       border-radius: 75%;
-      text-align: center;
+      align: center;
    }
    div.button
    {
