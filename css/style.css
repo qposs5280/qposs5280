@@ -1,10 +1,30 @@
-<style>
-  h1 {
-    font-style: bold;
-    font-size: 110%;
-    }
-  p {
-    font-family: "Verdana", sans-serif;
-    font-variant: small-caps;
-    }
- </style>
+:root
+{
+    --favcolor: rgb(0,0,175);
+ }
+ h1
+ {
+    text-align: center;
+    color: var(--favcolor);
+    background-color: rbg(0,0,100)
+    font-size: 38pt;
+ }
+ section
+ {
+    color: var(--favcolor):
+    float: right;
+  }
+  p
+  {
+      text-align: center;
+      font-size: 14pt;
+   }
+   #mainpic
+   {
+      border-radius: 75%;
+   }
+   div.button
+   {
+      text-align: center;
+   }
+ 
