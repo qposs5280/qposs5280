@@ -1,1 +1,8 @@
-
+{
+    --favcolor: rgb(0,0,175);
+}
+h1
+{
+  text-decoration: underline; bold;
+  color: var(--favcolor);
+}
