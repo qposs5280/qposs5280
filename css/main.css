@@ -17,6 +17,10 @@ h2
     font-style: italic;
     color: rgb(0, 85, 175);
  }
+h3
+{
+    text-decoration: underline;
+}
 p
 {
     font-family: "Verdana", "Arial", sans-serif;
