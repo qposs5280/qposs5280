@@ -1,8 +1,20 @@
+:root
 {
     --favcolor: rgb(0,0,175);
 }
 h1
 {
   text-decoration: underline; bold;
-  color: var(--favcolor);
+  font-color: var(--favcolor);
 }
+#minortext
+{
+    font-style: italic;
+    font-color: lightblue;
+ }
+p
+{
+    font-family: "Verdana", "Arial", sans-serif;
+    font-size: 12pt;
+}
+    
