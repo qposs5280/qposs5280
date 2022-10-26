@@ -6,7 +6,7 @@ h1
 {
   text-decoration: underline; bold;
   color: rgb(0, 0, 175);
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 h2
 {
@@ -15,7 +15,7 @@ h2
 #minortext
 {
     font-style: italic;
-    color: cyan;
+    color: rgb(0, 85, 175);
  }
 p
 {
