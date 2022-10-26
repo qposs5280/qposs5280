@@ -5,17 +5,16 @@
 h1
 {
   text-decoration: underline; bold;
-  color: rbg(0,0,175);
+  color: rbg(0, 0, 175);
 }
 h2
 {
     font-variant: small-caps;
-    font-style: underline; bold;
 }
 #minortext
 {
     font-style: italic;
-    color: rgb(0,85,175);
+    color: rgb(0, 85, 175);
  }
 p
 {
