@@ -1,6 +1,6 @@
-:root
+body
 {
-    --favcolor: rgb(0,0,175);
+    background-color: teal;
 }
 h1
 {
@@ -17,14 +17,12 @@ section
     border: 3px solid;
     margin-top: 40px;
     margin-bottom: 40px;
-    padding: 10px;
  }
 h3
 {
     text-decoration;
 }
-p
+.date
 {
-    font-family: "Verdana", "Arial", sans-serif;
-    font-size: 12pt;
+    color: red;
 }
