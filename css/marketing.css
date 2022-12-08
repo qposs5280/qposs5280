@@ -1,0 +1,15 @@
+#container {
+   display: flex;
+}
+
+nav {
+   flex: 0 1 20%;
+}
+
+main {
+   flex: 0 1 60%;
+}
+
+aside {
+   flex: 0 1 20%;
+}
