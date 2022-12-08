@@ -26,4 +26,9 @@ p
     font-family: "Verdana", "Arial", sans-serif;
     font-size: 12pt;
 }
+iframe
+{
+    width: 80vw;
+    height: 40vw;
+}
     
